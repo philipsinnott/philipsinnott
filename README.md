@@ -1,6 +1,8 @@
-### Hi there 👋
+### Philip Sinnott
 
-![tryhackme stats](https://github.com/philipsinnott/philipsinnott/blob/main/assets/thm_propic.png)
+Top 4% on THM:
+<BR>
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/philipsinnott.png)
 
 <!--
 **philipsinnott/philipsinnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
